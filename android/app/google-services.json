@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1020440772861",
+    "project_id": "aroma-64040",
+    "storage_bucket": "aroma-64040.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020440772861:android:a32651e1d2d11ff1f7fe94",
+        "android_client_info": {
+          "package_name": "de.Restaurant.Aroma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020440772861-p37ml0kleg7p0lkjm2sgrdh6so8fn7pt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0VUJw4eJVO-aGoHtTgLHxi0F09WqpVpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020440772861-p37ml0kleg7p0lkjm2sgrdh6so8fn7pt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

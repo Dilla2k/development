@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1020440772861-s6rii2au12en9a7veelpqio22b4ir4hk.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1020440772861-s6rii2au12en9a7veelpqio22b4ir4hk</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDA04ci5HHSZTPPrhTstT57FtE4XkYrPgk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1020440772861</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.restaurant.Aroma</string>
+	<key>PROJECT_ID</key>
+	<string>aroma-64040</string>
+	<key>STORAGE_BUCKET</key>
+	<string>aroma-64040.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1020440772861:ios:1d7e8c06e6cb9d73f7fe94</string>
+</dict>
+</plist>
